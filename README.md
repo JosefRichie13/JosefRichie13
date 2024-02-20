@@ -1,15 +1,22 @@
-### Hi there 👋🙏
+### Hello there 👋🙏
 
-📖 About Me 📖
+### 📖 About Me
+
 * I am Joseph Richie
 * QA / Quality Assurance Automation Engineer
 * Based in Hyderabad, India
 
-🔭 Currently working with Java, Selenium and Cucumber 🔭
 
-🌱 Learning Accessibility Testing on my free time 🌱
+### 🔭 Current work 
+* Java, Selenium and Cucumber
 
-🎯 Keep on learning and sharing 🎯
+
+### 🌱 Learning 
+* Accessibility Testing in my free time
+
+
+### 🎯 Goals
+* Keep on learning and sharing
 
 
 <!--
