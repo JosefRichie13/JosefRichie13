@@ -12,7 +12,7 @@
 
 
 ### 🌱 Learning 
-* Accessibility Testing in my free time
+* Accessibility and Visual Testing in my free time
 
 
 ### 🎯 Goals
