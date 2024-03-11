@@ -7,12 +7,12 @@
 * Based in Hyderabad, India
 
 
-### 🔭 Current work 
+### 🔭 Current Day work 
 * Java, Selenium and Cucumber
 
 
-### 🌱 Learning 
-* Accessibility and Visual Testing in my free time
+### 🌱 Personal learning 
+* Fighting between Go and Ruby in my free time
 
 
 ### 🎯 Goals
