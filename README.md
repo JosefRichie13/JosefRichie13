@@ -7,7 +7,7 @@
 * Based in Hyderabad, India
 
 
-### 💼🛠 Current Day work 
+### 💼 Current Day work 
 * Java, Selenium and Cucumber
 
 
