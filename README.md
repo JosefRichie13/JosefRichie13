@@ -1,13 +1,13 @@
 ### Hello there 👋🙏
 
-### 📖 About Me
+### 🙋‍♂️ About Me
 
 * I am Joseph Richie
 * QA / Quality Assurance Automation Engineer
 * Based in Hyderabad, India
 
 
-### 🔭 Current Day work 
+### 💼🛠 Current Day work 
 * Java, Selenium and Cucumber
 
 
