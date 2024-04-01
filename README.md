@@ -12,8 +12,7 @@
 
 
 ### 🌱 Personal learning 
-* ~Fighting between Go and Ruby in my free time~
-* Ruby came out on top, so currently learning Ruby, Cucumber.rb and Selenium
+* Wrestling with Web Automation using Go
 
 
 ### 🎯 Goals
