@@ -3,7 +3,7 @@
 ### 🙋‍♂️ About Me
 
 * I am Joseph Richie
-* QA / Quality Assurance Automation Engineer
+* Senior Quality Assurance Automation Engineer
 * Based in Hyderabad, India
 
 
@@ -12,7 +12,7 @@
 
 
 ### 🌱 Personal learning 
-* Wrestling with Web Automation using Go
+* Building Micro API's in Python and Go
 
 
 ### 🎯 Goals
